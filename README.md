@@ -1,12 +1,24 @@
-<a href="https://app.daily.dev/tonineri">
-  <img src="./devcard.png" width="375" alt="Antonio's Dev Card"/>
-</a>
+# Hey :)
+
+</div>
+
+---
+
+<div align="left">
 
 
-[![Skills](https://skillicons.dev/icons?i=kubernetes,azure,aws,gcp,openshift&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=bash,docker,sublime,vscode,terraform,postman&theme=dark)](https://skillicons.dev)
+</div>
 
-[![OS](https://skillicons.dev/icons?i=linux,redhat,ubuntu,windows&theme=dark)](https://skillicons.dev)
+<div align="right">
+  <a href="https://app.daily.dev/tonineri">
+    <img src="./devcard.png" width="375" alt="Antonio's Dev Card"/>
+  </a>
+</div>
 
-[![Socials](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=kubernetes,azure,aws,gcp,openshift,docker,bash,sublime,vscode,terraform,linux,redhat,ubuntu,windows&theme=dark)](https://skillicons.dev)
+
+</div>
+
