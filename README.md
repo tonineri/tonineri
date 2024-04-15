@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Toni</h1>
+<h1 align="center">Hey <img src="./hey.gif" width="30px">, I'm Toni</h1>
 <h3 align="center">Sr Technical Architect / Traveler / Tech Enthusiast</h3>
 
 Celebrating a **decade** in the IT industry. **Corfu** native 🏝️, now savoring _'la dolce vita'_ in **Milan** 🏢. **Tech aficionado** 🤖 and **globe-trotter** ✈️. Fluent in **English** , **Italian**, and **Greek** - language juggler extraordinaire! 🤹 Sometimes I mix them up, but hey, communication is an adventure, _vero_? 😅
