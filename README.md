@@ -3,19 +3,14 @@
 
 ---
 
-I'm a 30-year-old Sr Technical Architect with a decade in the IT industry. Born and raised in Corfu :desert_island: , currently based in **Milan** :office:	and living **la dolce vita**. **Tech enthusiast** :robot: and **global adventurer** :airplane: . Fluent in **English** , **Italian**, and **Greek**. You might catch me forgetting a word in one language while remembering it in another, but I always find a way to communicate. When not conquering tech challenges, you'll find me **exploring new skills** :mag: , hitting the **gym** :muscle: , **gaming** :video_game: , and diving into **movies** and **series** :clapper: .
+Celebrating a decade in the IT industry. **Corfu** native 🏝️, now savoring _'la dolce vita'_ in **Milan** 🏢. **Tech aficionado** 🤖 and **globe-trotter** ✈️. Fluent in **English** , **Italian**, and **Greek** - language juggler extraordinaire! 🤹 Sometimes I mix them up, but hey, communication is an adventure, _vero_? 😅 
+When not tackling tech challenges, you'll find me **honing new skills** 🔍, leveling up in the **gym** 💪, **gaming** like a pro 🎮, or indulging in the latest **movies** and **series** 🍿. Oh, and you'll often find me exploring new culinary delights, especially street food from around the globe! 🌮"
 
-<div align="center">
+<h6>
 
-**Let's innovate together!** 🚀
+_P.S. I whip up a mean carbonara!_ 🍝
 
-</div>
-
-<div align="left">
-
-
-
-</div>
+</h6>
 
 <div align="right">
   <a href="https://app.daily.dev/tonineri">
