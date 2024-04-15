@@ -1,18 +1,18 @@
-<div align="center">
-
-# `"Hello World"`
-
-</div>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Toni</h1>
+<h3 align="center">Sr Technical Architect / Traveler / Tech Enthusiast</h3>
 
 ---
 
+I'm a 30-year-old Sr Technical Architect with a decade in the IT industry. Born and raised in Corfu :desert_island: , currently based in **Milan** :office:	and living **la dolce vita**. **Tech enthusiast** :robot: and **global adventurer** :airplane: . Fluent in **English** , **Italian**, and **Greek**. You might catch me forgetting a word in one language while remembering it in another, but I always find a way to communicate. When not conquering tech challenges, you'll find me **exploring new skills** :mag: , hitting the **gym** :muscle: , **gaming** :video_game: , and diving into **movies** and **series** :clapper: .
+
+<div align="center">
+
+**Let's innovate together!** 🚀
+
+</div>
+
 <div align="left">
 
-```bash
-antonioneri = {
-  [address] = "20142 - Milan, Italy"
-  [dob] = "Feb 3rd, 1994"
-```
 
 
 </div>
