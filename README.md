@@ -15,6 +15,6 @@ When not tackling tech challenges, you'll find me **honing new skills** 🔍, le
 ---
 
   <a href="https://app.daily.dev/tonineri">
-    <img src="./devcard.png" width="652" alt="Toni's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/VDyTnBTCtqRpI0iJk29H0.png?type=wide&r=q79" width="652" alt="Antonio Neri's Dev Card"/>
   </a>
 </div>
