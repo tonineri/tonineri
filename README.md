@@ -10,7 +10,7 @@ When not tackling tech challenges, you'll find me **honing new skills** 🔍, le
 
 <div align="center">
 
-  [![Skills](https://skillicons.dev/icons?i=azure,aws,gcp,openshift,kubernetes,docker,bash,vscode,sublime,terraform,linux,redhat,ubuntu,windows&theme=dark)](https://skillicons.dev)
+  ![Skills](https://skillicons.dev/icons?i=azure,aws,gcp,openshift,kubernetes,docker,bash,vscode,sublime,terraform,linux,redhat,ubuntu,windows&theme=dark)
 
 ---
 
