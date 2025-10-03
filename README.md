@@ -1,4 +1,5 @@
-<h3 align="center">Hey <img src="./hej.gif" width="30px">, I'm Toni, Sr Technical Architect / Traveler / Tech Enthusiast</h3>
+<h1 align="center">Hey <img src="./hej.gif" width="30px">, I'm Toni>
+<h3 align="center">Sr Technical Architect / Traveler / Tech Enthusiast</h3>
 <h6 align="center">P.S. I whip up a mean carbonara! 🍝</h6>
 
 ---
